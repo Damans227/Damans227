@@ -3,7 +3,7 @@
 - :gear:  I have been involved with the Kubernetes Release Team since Kubernetes 1.22
 - :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
-- :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying Computer Systems Technican. 
+- :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
 - :mailbox:  Reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
 
@@ -20,3 +20,4 @@
 [kubernetes]: //kubernetes.io
 [pronoun]: //pronoun.is/he
 [twitter]: https://twitter.com/DaemonSets
+[cst]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
