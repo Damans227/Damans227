@@ -1,7 +1,7 @@
 - :school:  A passionate software developer currently pursuing Master of Engineering @  [Carleton University][carleton]
 - :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
 - :gear:  I have been involved with the Kubernetes Release Team since Kubernetes 1.22
-- :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Python, Data Analytics, Business Intelligence.
+- :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying Computer Systems Technican. 
 - :mailbox:  Reach out to me at `@DaemonSets` on [Twitter][twitter]
