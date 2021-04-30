@@ -1,5 +1,6 @@
 - :school:  A passionate software developer currently pursuing Master of Engineering @  [Carleton University][carleton]
 - :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
+- :computer: Worked as Intern and Full Time in the Cloud And Cognitive Support business unit of [IBM Canada][ibm]. 
 - :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
 - :gear:  Spending summer of 2021 shadowing on the Kubernetes v1.22 Release Team
 - :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
@@ -21,3 +22,4 @@
 [pronoun]: //pronoun.is/he
 [twitter]: https://twitter.com/DaemonSets
 [cst]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
+[ibm]: https://www.ibm.com/cloud
