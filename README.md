@@ -1,7 +1,7 @@
 - :school:  A passionate software developer working towards Master of Engineering @  [Carleton University][carleton]
 - :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
 - :gear:  Spending summer of 2021 shadowing on the [Kubernetes v1.22 Release Team][release] and learning DevOps @ [York University][yorku]
-- :computer: Worked full time and as an intern in the Cloud And Cognitive Support vertical of [IBM Canada][ibm]. 
+- :computer: Worked as a Software Engineer in the Cloud And Cognitive Support vertical of [IBM Canada][ibm]. 
 - :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
 - :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
