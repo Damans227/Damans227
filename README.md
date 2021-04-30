@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - :school:  A passionate software developer currently pursuing Master of Engineering @  [Carleton University][carleton]
 - :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
 - :gear:  I have been involved with the Kubernetes Release Team since Kubernetes 1.22
