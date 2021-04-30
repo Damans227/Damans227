@@ -1,16 +1,24 @@
 ### Hi there 👋
 
+- :school:  A passionate software developer currently pursuing Master of Engineering @  [Carleton University][carleton]
+- :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
+- :gear:  I have been involved with the Kubernetes Release Team since Kubernetes 1.22
+- :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Python, Data Analytics, Business Intelligence.
+- :microphone:  My pronouns are [he/him][pronoun]
+- :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying Computer Systems Technican. 
+- :mailbox:  Reach out to me at `@DaemonSets` on [Twitter][twitter]
+- :pencil:  I write occasionally on my [blog][blog]
+
 <!--
-**Damans227/Damans227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# TODO
+- Setup Page
+- Talks Page
+- Current work Page
 -->
+
+[algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
+[blog]: https://daemonsets.github.io/
+[carleton]: https://carleton.ca/sce/
+[kubernetes]: //kubernetes.io
+[pronoun]: //pronoun.is/he
+[twitter]: https://twitter.com/DaemonSets
