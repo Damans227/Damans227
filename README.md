@@ -1,4 +1,4 @@
-- :school:  A passionate software developer currently pursuing Master of Engineering @  [Carleton University][carleton]
+- :school:  A passionate software developer working towards Master of Engineering @  [Carleton University][carleton]
 - :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
 - :computer: Worked as Intern and Full Time in the Cloud And Cognitive Support business unit of [IBM Canada][ibm]. 
 - :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
