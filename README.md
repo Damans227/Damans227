@@ -1,19 +1,36 @@
-- :school:  A passionate software developer working towards Master of Engineering @  [Carleton University][carleton]
-- :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
-- :gear:  Spending summer of 2021 shadowing on the [Kubernetes v1.22 Release Team][release] and learning DevOps @ [York University][yorku]
+
+
+
+<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+
+<p>
+  
+Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. I’m constantly seeking new, challenging, and exciting opportunities to improve my abilities. Please feel free to look around or find me on [social media][twitter].
+
+</p>
+
+<div >
+  <img src="https://raw.githubusercontent.com/Damans227/Damans227/main/Daman.gif" align="right" width="300">
+  
 - :computer: Worked as a Software Engineer in the Cloud And Cognitive Support vertical of [IBM Canada][ibm]. 
+- :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
 - :sunflower:  I contribute to open source projects in my free time, notably [Kubernetes][kubernetes]
 - :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  Reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
 
-<!--
-# TODO
-- Setup Page
-- Talks Page
-- Current work Page
--->
+
+
+<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
+
+- :school:  Working towards Master of Engineering @  [Carleton University][carleton]
+- :gear: Spending summer of 2021 shadowing on the [Kubernetes v1.22 Release Team][release]
+- 🌱 Learning DevOps @ [York University][yorku]
+- 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
+
+<!--h2>Random</h2-->
+
 
 [algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
 [blog]: https://daemonsets.github.io/
