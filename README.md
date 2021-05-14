@@ -29,6 +29,9 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - 🌱 Learning DevOps @ [York University][yorku]
 - 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 
+[![Daman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damans227)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--h2>Random</h2-->
 
 
