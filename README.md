@@ -8,9 +8,6 @@
 Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. I’m constantly seeking new, challenging, and exciting opportunities to improve my abilities. Please feel free to look around or find me on [social media][twitter].
 
 </p>
-
-<div >
-  <img src="https://raw.githubusercontent.com/Damans227/Damans227/main/Daman.gif" align="right" width="200">
   
 - :computer: Worked as a Software Engineer in the Cloud And Cognitive Support vertical of [IBM Canada][ibm]. 
 - :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
