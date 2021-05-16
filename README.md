@@ -5,21 +5,14 @@
 
 <p>
   
-Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. I’m constantly seeking new, challenging, and exciting opportunities to improve my abilities. Please feel free to look around or find me on [social media][twitter].
-
+Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before starting my journey towards the graduate degree, I studied [Computer Systems Technican][cst] at [Algonquin College][algonquin] and then worked full time as a Software Engineer in Cloud And Cognitive Support vertical of [IBM Canada][ibm] in Ottawa. Also..
 </p>
 
-
-
-
-  
-- :computer: Worked as a Software Engineer in the Cloud And Cognitive Support vertical of [IBM Canada][ibm]. 
-- :hammer_and_wrench:  I used to hack around cisco routers and switches during my time at [Algonquin College][algonquin] while studying [Computer Systems Technican][cst]. 
 - :sunflower:  I contribute to [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects in my free time, notably [Kubernetes][kubernetes]
-- :speech_balloon:  Ask me about Crypto, Stock Market, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
+- :speech_balloon:  I love talking about Stock Market, Finance, Crypto, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
-- :mailbox:  Reach out to me at `@DaemonSets` on [Twitter][twitter]
-- :pencil:  I write occasionally on my [blog][blog]
+- :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
+- :pencil:  I also write occasionally on my [blog][blog]
 
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
