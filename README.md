@@ -12,7 +12,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :speech_balloon:  I love talking about Stock Market, Finance, Crypto, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
-- :pencil:  I also write occasionally on my [blog][blog]
+- :pencil:  I write occasionally on my [blog][blog]
 
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
