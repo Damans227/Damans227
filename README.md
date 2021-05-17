@@ -5,7 +5,7 @@
 
 <p>
   
-Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] and transitioned from a Technology Intern to a Full Time Software Engineer in the Cloud And Cognitive Support vertical of [IBM Canada][ibm] in Ottawa. Other than that...
+Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton] in Ottawa. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and had an opportunity to work as a Technology Intern as well as a full time Software Engineer in the Cloud And Cognitive Support vertical of [IBM Canada][ibm]. Other than that...
 </p>
 
 - :sunflower:  I contribute to [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects in my free time, notably [Kubernetes][kubernetes]
