@@ -9,7 +9,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 </p>
 
 - :sunflower:  I contribute to [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects in my free time, notably [Kubernetes][kubernetes]
-- :speech_balloon:  I love talking about Stock Market, Finance, Crypto, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
+- :speech_balloon:  I love talking about Stock Market, Finance, DevOps, SDLC, Containers, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
