@@ -14,7 +14,6 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
 
-
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
 - :gear: Spending summer of 2021 shadowing on the [Kubernetes v1.22 Release Team][release]
@@ -22,16 +21,16 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :school:  Working towards Master of Engineering @  [Carleton University][carleton]
 - 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 
-<a href="https://twitter.com/dims/">
+<a href="https://twitter.com/DaemonSets">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" />
 </a>
-<!--a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
-</a-->
+
+<a href="https://twitter.com/DaemonSets">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" />
+</a>
 
 
 <!--h2>Random</h2-->
-
 
 [algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
 [blog]: https://daemonsets.github.io/
