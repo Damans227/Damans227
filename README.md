@@ -22,7 +22,12 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :school:  Working towards Master of Engineering @  [Carleton University][carleton]
 - 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 
-[![Daman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damans227)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" />
+</a>
+<!--a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
+</a-->
 
 
 <!--h2>Random</h2-->
