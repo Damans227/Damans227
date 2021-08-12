@@ -10,7 +10,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 
 - :sunflower: I like giving back to the developer community by contributing to [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects, notably [Kubernetes][kubernetes].
 - :speech_balloon:  I love talking about Stock Market, Finance, DevOps, SDLC, Containers, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
-- 🥇  I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the year 2021
+- 🥇  I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
