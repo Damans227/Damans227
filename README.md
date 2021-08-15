@@ -1,5 +1,5 @@
 
-
+<samp>
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
@@ -30,6 +30,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" />
 </a>
 
+</samp>
 
 <!--h2>Random</h2-->
 
