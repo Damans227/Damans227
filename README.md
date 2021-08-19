@@ -3,7 +3,7 @@
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
-<samp>
+
 <p>
   
 Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as an Intern as well as a Full Time Software Engineer in the Cloud And Cognitive Support business unit of [IBM Canada][ibm]. Other than that...
@@ -17,11 +17,11 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :pencil:  I write occasionally on my [blog][blog]
 
   
-</samp>
+
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
-<samp>
+
   
 - :gear: Spending summer of 2021 shadowing on the [Kubernetes v1.22 Release Team][release]
 - 🌱 Learning and researching various Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
@@ -36,7 +36,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" />
 </a>
 
-</samp>
+
 
 <!--h2>Random</h2-->
 
