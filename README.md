@@ -32,9 +32,17 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :school:  Working towards Master of Engineering @  [Carleton University][carleton]
 - 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 
+
+
 <a href="https://twitter.com/DaemonSets">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" />
+<div class="row">
+  <div class="column">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" />
+  </div>
+  <div class="column">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" />
+  </div>
+</div>
 </a>
 
 
