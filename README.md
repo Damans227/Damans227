@@ -40,7 +40,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" />
   </div>
   <div class="column">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" style="width:30%"/>
   </div>
 </div>
 </a>
