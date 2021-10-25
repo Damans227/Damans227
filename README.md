@@ -36,12 +36,6 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" />
 </a>
 
-<a href="https://twitter.com/DaemonSets">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damans227&hide=html,ruby" />
-</a>
-
-
-
 <!--h2>Random</h2-->
 
 [algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
