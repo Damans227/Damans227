@@ -11,7 +11,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 
 - :sunflower: I like giving back to the developer community by contributing to [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
 - :speech_balloon:  I love talking about Stock Market, Finance, DevOps, SDLC, Containers, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
-- 📰 I've co-authored a research paper [on leveraging text analytics to categorize the market offers of innovative digital health companies][research].
+- 📰 I've co-authored a research paper on leveraging [text analytics to categorize the market offers of innovative digital health companies][research].
 - 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
 - :computer: I am a [Certified Kubernetes Administrator][Cka]
 - :microphone:  My pronouns are [he/him][pronoun]
