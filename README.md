@@ -28,7 +28,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 
 
 - 🧑‍🎓 Spending fall of 2021 working as a fellow at [MLH Fellowship][fellowship]
-- :gear: Shadowing on the [Kubernetes v1.22 Release Team][release]
+- :gear: Shadowing on the [Kubernetes Release Team][release]
 - 🌱 Learning and researching various Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
 - :school:  Working towards Master of Engineering @  [Carleton University][carleton]
 - 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
