@@ -27,7 +27,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
 
-- 🧑‍🎓 Spending fall of 2021 working as a fellow at [MLH Fellowship][fellowship]
+- 👨‍🎓 Spending fall of 2021 working as a fellow at [MLH Fellowship][fellowship]
 - :gear: Shadowing on the [Kubernetes Release Team][release]
 - 🌱 Learning and researching various Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
 - :school:  Working towards Master of Engineering @  [Carleton University][carleton]
