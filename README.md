@@ -11,9 +11,6 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 
 - :sunflower: I like giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
 - :speech_balloon:  I love talking about Stock Market, Finance, DevOps, SDLC, Containers, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
-- 📰 I've co-authored a research paper on leveraging [text analytics to categorize the market offers of innovative digital health companies][research].
-- 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
-- :computer: I am a [Certified Kubernetes Administrator][Cka]
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
@@ -34,7 +31,13 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 
 
+<h2>Random</h2>
 
+- 📰 I've co-authored a research paper on leveraging [text analytics to categorize the market offers of innovative digital health companies][research].
+- 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
+- :computer: I am a [Certified Kubernetes Administrator][Cka]
+
+<br/>
 <a href="https://twitter.com/DaemonSets">
 <div class="row">
   <div class="column"> 
@@ -47,7 +50,6 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 </a>
 
 
-<!--h2>Random</h2-->
 [fellowship]: https://fellowship.mlh.io/  
 [algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
 [blog]: https://daemonsets.github.io/
