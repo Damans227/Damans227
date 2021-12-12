@@ -6,10 +6,10 @@
 
 <p>
   
-Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as an Intern as well as a Full Time Software Engineer in the Cloud And Cognitive Support business unit of [IBM Canada][ibm]. Other than that...
+Hello World, I’m Daman. A highly motivated software developer pursuing a Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as a Software Engineer (Intern & Full Time) in the Cloud And Cognitive Support business unit of [IBM Canada][ibm]. Other than that...
 </p>
 
-- :sunflower: I like giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
+- :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
 - :speech_balloon:  I love talking about Stock Market, Finance, DevOps, SDLC, Containers, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
@@ -27,8 +27,8 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - 👨‍🎓 Spending fall of 2021 working as a fellow at [MLH Fellowship][fellowship]
 - :gear: Shadowing on the [Kubernetes Release Team][release]
 - 🌱 Learning and researching various Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
-- :school:  Working towards Master of Engineering @  [Carleton University][carleton]
-- 📚 Reading (or trying to read) : **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
+- :school:  Working towards a Master of Engineering @  [Carleton University][carleton]
+- 📚 Reading (or trying to read): **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 
 
 <h2>Random</h2>
