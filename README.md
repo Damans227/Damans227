@@ -33,7 +33,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing a Maste
 
 <h2>Random</h2>
 
-- 📰 I've co-authored a research paper on leveraging [text analytics to categorize the market offers of innovative digital health companies][research].
+- 📰 I've co-authored a research paper on leveraging [machine learning to categorize the market offers of innovative digital health companies][research].
 - 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
 - :computer: I am a [Certified Kubernetes Administrator][Cka]
 
