@@ -6,7 +6,7 @@
 
 <p>
   
-Hello World, I’m Daman. A highly motivated software developer pursuing a Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as a Software Engineer (Intern & Full Time) in the Cloud And Cognitive Support business unit of [IBM Canada][ibm]. Other than that...
+Hello World, I’m Daman. A highly motivated software developer pursuing a Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as a Software Engineer (Intern & Full Time) in the Cloud And Cognitive Science business unit of [IBM Canada][ibm]. Other than that...
 </p>
 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
