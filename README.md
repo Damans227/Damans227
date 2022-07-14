@@ -6,7 +6,7 @@
 
 <p>
   
-Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as a Software Engineer (Intern & Full Time) in the Cloud And Cognitive Science business unit of [IBM Canada][ibm]. Other than that...
+Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as a Software Engineer (Intern & Full Time) in the Cloud And Cognitive Science business unit of [IBM Canada][ibm]. My most recent work experience includes interning and working at [AWS][aws], [Nokia][nokia], and [Apache CloudStack][cloudstack]. Other than that...
 </p>
 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
@@ -65,3 +65,6 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 [Cka]: https://www.credly.com/badges/57c437b3-d998-4d97-9276-1f968c39b883/public_url
 [TrinoDB]: https://trino.io/
 [research]: https://timreview.ca/article/1457
+[aws]: https://gradstudents.carleton.ca/2022/tim-grad-student-picked-for-highly-selective-fellowship/
+[nokia]: https://www.nokia.com/
+[cloudstack]: https://summerofcode.withgoogle.com/programs/2022/projects/ZVraist1
