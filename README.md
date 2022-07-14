@@ -10,7 +10,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 </p>
 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
-- :speech_balloon:  I love talking about Stock Market, Finance, DevOps, SDLC, Containers, Java, Kubernetes, Open Source, Cloud, Python, Data Analytics, Business Intelligence.
+- :speech_balloon:  I love talking about Go, Python, javaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
@@ -23,12 +23,10 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
-
-- 👨‍🎓 Spending fall of 2021 working as a fellow at [MLH Fellowship][fellowship]
-- :gear: Shadowing on the [Kubernetes Release Team][release]
-- 🌱 Learning and researching various Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
 - :school:  Working towards a Master of Engineering @  [Carleton University][carleton]
 - 📚 Reading (or trying to read): **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
+- ⭐ Working as a [Google Summer Of Code Intern][cloudstack] at the [Apache Software Foundation][theasf]
+- 🖱️ Doing an internship as a software developer at [Nokia][nokia]
 
 
 <h2>Random</h2>
@@ -36,6 +34,9 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - 📰 I've co-authored a research paper on leveraging [machine learning to categorize the market offers of innovative digital health companies][research].
 - 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
 - :computer: I am a [Certified Kubernetes Administrator][Cka]
+- 🌱 I recently took courses in Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
+- :gear: I have shadowed on the [Kubernetes Release Team][release] for version 1.22 and 1.23
+- 👨‍🎓 I have been an open source software engineering fellow at [AWS][aws] via [MLH Fellowship][fellowship]
 
 <br/>
 <a href="https://twitter.com/DaemonSets">
@@ -68,3 +69,4 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 [aws]: https://gradstudents.carleton.ca/2022/tim-grad-student-picked-for-highly-selective-fellowship/
 [nokia]: https://www.nokia.com/
 [cloudstack]: https://summerofcode.withgoogle.com/programs/2022/projects/ZVraist1
+[theasf]: https://www.apache.org/
