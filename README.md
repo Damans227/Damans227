@@ -10,7 +10,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 </p>
 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects, notably [Kubernetes][kubernetes] & [TrinoDB][TrinoDB].
-- :speech_balloon:  I love talking about Go, Python, javaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
+- :speech_balloon:  I love talking about Go, Python, JavaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
