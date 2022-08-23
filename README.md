@@ -12,7 +12,7 @@ Hello World, I’m Daman. A highly motivated software developer pursuing Master 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects.
 - :speech_balloon:  I love talking about Go, Python, JavaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
-- :mailbox:  You can reach out to me at `@DaemonSets` on [Twitter][twitter]
+- :mailbox:  You can reach out to me at `@you_da_man_` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
 
 Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...but I'm owning it.
@@ -57,7 +57,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 [carleton]: https://carleton.ca/sce/
 [kubernetes]: //kubernetes.io
 [pronoun]: //pronoun.is/he
-[twitter]: https://twitter.com/DaemonSets
+[twitter]: https://twitter.com/you_da_man_
 [cst]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
 [ibm]: https://www.ibm.com/cloud
 [yorku]: https://continue.yorku.ca/programs/certificate-in-devops/
