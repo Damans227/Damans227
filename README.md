@@ -39,6 +39,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 - 👨‍🎓 I have been an open source software engineering fellow at [AWS][aws] via [MLH Fellowship][fellowship]
 
 *The style and format of this ReadMe page was inspired by [@juanpflores][juanpa] and [@bitsondatadev][brian].*
+<!--
 <br/>
 <a href="">
 <div class="row">
@@ -50,6 +51,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
   </div>
 </div>
 </a>
+-->
 
 [fellowship]: https://fellowship.mlh.io/  
 [algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
