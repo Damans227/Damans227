@@ -40,7 +40,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 
 *The style and format of this ReadMe page was inspired by [@juanpflores][juanpa] and [@bitsondatadev][brian].*
 <br/>
-<a href="https://twitter.com/DaemonSets">
+<a href="">
 <div class="row">
   <div class="column"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Damans227&show_icons=true" style="width:55%" />
