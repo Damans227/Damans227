@@ -4,9 +4,14 @@
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 
-<p>
+<p>  
+Hello World, My name is Daman (pronounced as duh-men). I am a relationship-oriented, tech-savvy software professional with strong technical & analytical skills. I am passionate about writing code, and I am always looking for new opportunities that will help me learn better ways to develop. Working with others and discussing development terms are among my favorite pastimes. You may... 
   
-Hello World, I’m Daman. A highly motivated software developer pursuing Master of Engineering at [Carleton University][carleton]. Before going back to school to start my journey towards the graduate degree, I studied [Computer Systems Technician][cst] at [Algonquin College][algonquin] where I used to hack around cisco routers & switches, and got the opportunity to work as a Software Engineer (Intern & Full Time) in the Cloud And Cognitive Science business unit of [IBM Canada][ibm]. My most recent work experience includes working as a Software Developer at [AWS][aws], [Nokia][nokia], and [Apache CloudStack][cloudstack]. Other than that...
+- Give me data, and I can extract knowledge and insights for you.
+- Tell me what you need, and I can design a solution.
+- Give me a coding problem, and I can solve it efficiently.
+  
+Other than that...
 </p>
 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/DaemonSets"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects.
