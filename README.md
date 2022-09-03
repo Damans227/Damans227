@@ -28,10 +28,9 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
-- :school:  Working towards a Master of Engineering @  [Carleton University][carleton]
+- 🖱️ Working as a frontend software developer at [Ciena][ciena]
 - 📚 Reading (or trying to read): **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
 - ⭐ Working as a [Google Summer Of Code Intern][cloudstack] at the [Apache Software Foundation][theasf]
-- 🖱️ Doing an internship as a software developer at [Nokia][nokia]
 
 
 <h2>Random</h2>
@@ -39,11 +38,8 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 - 📰 I've co-authored a research paper on leveraging [machine learning to categorize the market offers of innovative digital health companies][research].
 - 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
 - :computer: I am a [Certified Kubernetes Administrator][Cka]
-- 🌱 I recently took courses in Cloud, CI/CD pipelines, Container services, DevOps Processes @ [York University][yorku]
 - :gear: I have shadowed on the [Kubernetes Release Team][release] for version 1.22 and 1.23
 - 👨‍🎓 I have been an open source software engineering fellow at [AWS][aws] via [MLH Fellowship][fellowship]
-
-*The style and format of this ReadMe page was inspired by [@juanpflores][juanpa] and [@bitsondatadev][brian].*
 
 <br/>
 <a href="">
@@ -74,10 +70,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 [TrinoDB]: https://trino.io/
 [research]: https://timreview.ca/article/1457
 [aws]: https://gradstudents.carleton.ca/2022/tim-grad-student-picked-for-highly-selective-fellowship/
-[nokia]: https://www.nokia.com/
+[ciena]: https://www.ciena.com/
 [cloudstack]: https://summerofcode.withgoogle.com/programs/2022/projects/ZVraist1
 [theasf]: https://www.apache.org/
-[brian]: https://github.com/bitsondatadev
-[juanpa]: https://github.com/juanpflores
-
 
