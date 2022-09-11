@@ -14,7 +14,7 @@ Hello World, My name is Daman (pronounced as duh-men). I am a relationship-orien
 Other than that...
 </p>
 
-- :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://twitter.com/you_da_man_"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects.
+- :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://github.com/pulls?q=is%3Apr+author%3ADamans227+archived%3Afalse+"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects.
 - :speech_balloon:  I love talking about Go, Python, JavaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
 - :mailbox:  You can reach out to me at `@you_da_man_` on [Twitter][twitter]
