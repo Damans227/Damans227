@@ -3,16 +3,14 @@
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
-
-<p>  
-Hello World, My name is Daman (pronounced as duh-men). I am a relationship-oriented, tech-savvy software professional with strong technical & analytical skills. I am passionate about writing code, and I am always looking for new opportunities that will help me learn better ways to develop. Working with others and discussing development terms are among my favorite pastimes. You may... 
+ 
+Hello World, My name is [Daman (pronounced as duh-men)](https://www.howtopronounce.com/hindi/daman). I am a relationship-oriented, tech-savvy software professional with strong technical & analytical skills. I am passionate about writing code, and I am always looking for new opportunities that will help me learn better ways to develop. Working with others and discussing development terms are among my favorite pastimes. You may... 
   
 - Give me data, and I can extract knowledge and insights for you.
 - Tell me what you need, and I can design a solution.
 - Give me a coding problem, and I can solve it efficiently.
   
 Other than that...
-</p>
 
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://github.com/pulls?q=is%3Apr+author%3ADamans227+archived%3Afalse+"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects.
 - :speech_balloon:  I love talking about Go, Python, JavaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
