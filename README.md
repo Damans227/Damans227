@@ -31,6 +31,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 
 
 <h2>Random</h2>
+
 - ⭐ Worked as a [Google Summer Of Code Intern][cloudstack] at the [Apache Software Foundation][theasf]
 - 📰 I've co-authored a research paper on leveraging [machine learning to categorize the market offers of innovative digital health companies][research].
 - 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
