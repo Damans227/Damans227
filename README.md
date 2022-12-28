@@ -66,7 +66,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 [Ambassador Labs]: https://blog.getambassador.io/meet-the-inaugural-class-of-ambassador-community-advocates-53f5d52a741e
 [Cka]: https://www.credly.com/badges/57c437b3-d998-4d97-9276-1f968c39b883/public_url
 [TrinoDB]: https://trino.io/
-[research]: https://timreview.ca/article/1457
+[research]: https://timreview.ca/sites/default/files/article_PDF/TIMReview_2021_Issue_7-8-5.pdf
 [aws]: https://gradstudents.carleton.ca/2022/tim-grad-student-picked-for-highly-selective-fellowship/
 [ciena]: https://www.ciena.com/
 [cloudstack]: https://summerofcode.withgoogle.com/programs/2022/projects/ZVraist1
