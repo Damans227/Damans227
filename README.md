@@ -15,7 +15,7 @@ Other than that...
 - :sunflower: I enjoy giving back to the developer community by contributing to <a href="https://github.com/pulls?q=is%3Apr+author%3ADamans227+archived%3Afalse+"> <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>  projects.
 - :speech_balloon:  I love talking about Go, Python, JavaScript, Java, Stock Market, Finance, DevOps, SDLC, Containers, Kubernetes, Open Source, Cloud, Data Analytics, Business Intelligence.
 - :microphone:  My pronouns are [he/him][pronoun]
-- :mailbox:  You can reach out to me at `@you_da_man_` on [Twitter][twitter]
+- :mailbox:  You can reach out to me at `@DamanAroraCa` on [Twitter][twitter]
 - :pencil:  I write occasionally on my [blog][blog]
 
 Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...but I'm owning it.
