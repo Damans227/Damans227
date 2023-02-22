@@ -54,7 +54,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 
 [fellowship]: https://fellowship.mlh.io/  
 [algonquin]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
-[blog]: https://daemonsets.github.io/
+[blog]: https://damanarora.netlify.app/
 [carleton]: https://carleton.ca/sce/
 [kubernetes]: //kubernetes.io
 [pronoun]: //pronoun.is/he
