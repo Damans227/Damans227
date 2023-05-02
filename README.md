@@ -58,7 +58,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 [carleton]: https://carleton.ca/sce/
 [kubernetes]: //kubernetes.io
 [pronoun]: //pronoun.is/he
-[twitter]: https://twitter.com/you_da_man_
+[twitter]: https://twitter.com/DamanAroraCa
 [cst]: https://www.algonquincollege.com/sat/program/computer-systems-technician/
 [ibm]: https://www.ibm.com/cloud
 [yorku]: https://continue.yorku.ca/programs/certificate-in-devops/
