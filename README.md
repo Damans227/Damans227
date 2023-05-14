@@ -37,7 +37,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 - 🥇 I am a member of the Inaugural Class of Community Advocates at [Ambassador Labs][Ambassador Labs] for the period of 2021-2022
 - :computer: I am a [Certified Kubernetes Administrator][Cka]
 - :gear: I have shadowed on the [Kubernetes Release Team][release] for version 1.22 and 1.23
-- 👨‍🎓 I have been an open source software engineering fellow at [AWS][aws] via [MLH Fellowship][fellowship]
+- 👨‍🎓 I have been a software engineering fellow at [AWS][aws] and [RBC][rbc] via [MLH Fellowship][fellowship]
 
 <br/>
 <a href="">
@@ -71,4 +71,5 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 [ciena]: https://www.ciena.com/
 [cloudstack]: https://summerofcode.withgoogle.com/programs/2022/projects/ZVraist1
 [theasf]: https://www.apache.org/
+[rbc]: https://www.rbc.com/about-rbc.html
 
