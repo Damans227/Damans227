@@ -1,7 +1,7 @@
 
 
 
-<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+<h2> About me </h2>
 
  
 Hello World, My name is [Daman (pronounced as duh-men)](https://www.howtopronounce.com/hindi/daman). I am a relationship-oriented, tech-savvy software professional with strong technical & analytical skills. I am passionate about writing code, and I am always looking for new opportunities that will help me learn better ways to develop. Working with others and discussing development terms are among my favorite pastimes. You may... 
