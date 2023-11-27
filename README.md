@@ -24,7 +24,7 @@ Basically, I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...bu
 </p>
 
 
-<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
+<h2> I'm currently ...</h2>
 
 - 🖱️ Working as a frontend software developer at [Ciena][ciena]
 - 📚 Reading (or trying to read): **"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"**
